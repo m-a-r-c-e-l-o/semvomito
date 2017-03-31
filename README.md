@@ -9,7 +9,7 @@ Uma Extenção para Navegadores!
 <i>Substitui os adesivos de vômito do Facebook por coraçõezinhos</i><br>
 Replace Facebook Vomit Sticker with hearth:
 
-![alt tag](http://i.imgur.com/Bw6tvSQ.png)
+![alt tag](http://i.imgur.com/nYwqJnA.png)
 
 ## Download
 
