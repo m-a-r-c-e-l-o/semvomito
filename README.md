@@ -11,7 +11,7 @@ Replace Facebook Vomit Sticker with hearth:
 
 ## Download
 
-[![Mozilla Add-on](https://img.shields.io/badge/mozilla%20add--on-v.1.0-blue.svg)](https://addons.mozilla.org/addon/antivomitaco)
+[![Mozilla Add-on](https://img.shields.io/badge/mozilla%20add--on-v.1.0.2-blue.svg)](https://addons.mozilla.org/addon/antivomitaco)
 
 
 <p align="center">
