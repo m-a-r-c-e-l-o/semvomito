@@ -3,7 +3,6 @@
    "background": {
       "scripts": [ "background.js" ]
    },
-   "permissions": ["tabs"],
    "browser_action": {
       "default_icon": "icon48.png"
    },
@@ -12,13 +11,19 @@
       "matches": [ "*://*.facebook.com/*" ],
       "run_at": "document_start"
    } ],
-   "description": "Fique livre dessa doença, remova os vômitos do seu facebook.",
    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
-      "icons": {
+   "description": "Fique livre dessa doença, remova os vômitos do seu facebook.",
+   "developer": {
+      "name": "m-a-r-c-e-l-o"
+   },
+   "icons": {
       "128": "icon128.png",
-      "48": "icon48.png"
+      "48": "icon48.png",
+      "64": "icon64.png"
    },
    "manifest_version": 2,
-   "name": "Anti Vômitaço",
-   "version": "1"
+   "name": "Anti-Vômitaço",
+   "permissions": [ "*://*.facebook.com/*", "*://*.fbcdn.net/*" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "1.0.1"
 }
